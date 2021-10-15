@@ -1,19 +1,19 @@
 .btn {
-    display: inline-block;
-    padding: 17px;
-    width: 100%;
-    line-height: 1;
-    font-weight: 700;
-    border: none;
-    transition: all .09s ease-out;
+	display: inline-block;
+	line-height: 1;
+	font-weight: 700;
+	width: 100%;
+	border: none;
+	padding: 17px;
+	transition: all .09s ease-out;
 }
 
 .btn-accent {
-    background-color: #D4C17F;
-    color: #fff;
+	background-color: #D4C17F;
+	color: #fff;
 }
 
 .btn-accent:hover {
-    background-color: #907c38;
-    color: #fff;
+	background-color: #907c38;
+	color: #fff;
 }
